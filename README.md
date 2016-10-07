@@ -1,2 +1,3 @@
 # hk3r
-beware not an simple repository
+a=input("hello world")
+print(a)
